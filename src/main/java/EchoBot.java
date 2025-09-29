@@ -9,7 +9,7 @@ import org.telegram.telegrambots.updatesreceivers.DefaultBotSession;
 
 public class EchoBot extends TelegramLongPollingBot {
 
-    // Укажите свои данные
+
     private static final String BOT_USERNAME = "testttt11121_bot";
     private static final String BOT_TOKEN = "8345880546:AAH6AGb-iQrW2ap6fsxWly5YC31t8pX8TH0";
 
